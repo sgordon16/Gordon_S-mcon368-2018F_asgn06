@@ -1,0 +1,7 @@
+C:\Users\shlom\source\repos\ConsoleApp3\GoldbachConjecture\bin\Debug\GoldbachConjecture.exe.config
+C:\Users\shlom\source\repos\ConsoleApp3\GoldbachConjecture\bin\Debug\GoldbachConjecture.exe
+C:\Users\shlom\source\repos\ConsoleApp3\GoldbachConjecture\bin\Debug\GoldbachConjecture.pdb
+C:\Users\shlom\source\repos\ConsoleApp3\GoldbachConjecture\obj\Debug\GoldbachConjecture.csprojAssemblyReference.cache
+C:\Users\shlom\source\repos\ConsoleApp3\GoldbachConjecture\obj\Debug\GoldbachConjecture.csproj.CoreCompileInputs.cache
+C:\Users\shlom\source\repos\ConsoleApp3\GoldbachConjecture\obj\Debug\GoldbachConjecture.exe
+C:\Users\shlom\source\repos\ConsoleApp3\GoldbachConjecture\obj\Debug\GoldbachConjecture.pdb
